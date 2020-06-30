@@ -1,2 +1,1 @@
-# Jogo_impar_par
-Joguinho Humano X PC, apenas
+Caso queira rodar, extraia o arquivo .rar para a mesma pasta dos outros arquivos
